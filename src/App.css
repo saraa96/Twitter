@@ -1,0 +1,37 @@
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  height: 40vmin;
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  background-color: #ceebf7 ;
+}
+
+.App-link {
+  color: #09d3ac;
+}
+.Login{
+  background-color: #ceebf7;
+  margin-top: 20%;
+  width: 50%;
+}
+.Register{
+  background-color: #ceebf7;
+  width: 50%;
+  margin-left: 20%;
+}
+.LRbutton{
+  margin-left: 100%;
+  width: 80%;
+  margin-top:70% ;
+}
